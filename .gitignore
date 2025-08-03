@@ -1,0 +1,17 @@
+# Exclude raw images and data
+Image/
+MP_Data/
+Logs/
+
+# Exclude trained model
+model.h5
+model.json
+
+# Exclude numpy files
+*.npy
+
+# Ignore cache and temp files
+__pycache__/
+*.pyc
+*.pyo
+*.swp
