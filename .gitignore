@@ -2,6 +2,7 @@
 Image/
 MP_Data/
 Logs/
+venv/
 
 # Exclude trained model
 model.h5
@@ -15,3 +16,4 @@ __pycache__/
 *.pyc
 *.pyo
 *.swp
+
